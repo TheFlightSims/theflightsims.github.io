@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "theflightsims.github.io",
+  "Id": "54a14ffb-fda8-44d4-88ce-572a747236a9"
+}
